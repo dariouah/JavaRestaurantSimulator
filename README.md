@@ -50,6 +50,20 @@ Cuando se ejecuta el programa, se abrirá una ventana donde se representarán lo
 
 Estos controles ofrecen al usuario una manera sencilla pero poderosa de interactuar con la ejecución del programa, permitiendo un nivel básico de control sobre el flujo de procesos y la capacidad de detenerse a observar los resultados de ciertas acciones o comportamientos del sistema sin finalizar por completo la ejecución del programa.
 
+## Documentación Adicional
+Para proporcionar una comprensión más profunda de los métodos de sincronización utilizados, así como de la arquitectura y el diseño del proyecto, se adjunta una memoria técnica en formato PDF. Este documento es esencial para aquellos interesados en los detalles técnicos del manejo de la concurrencia y la interacción entre las diferentes clases del proyecto.
+
+### Contenidos de la Memoria:
+- **Descripción Detallada de los Métodos de Sincronización:** Explicaciones sobre cómo se gestionan los problemas de concurrencia en el proyecto, incluyendo técnicas específicas para evitar condiciones de carrera, deadlocks, y otros desafíos comunes.
+- **Análisis de las Clases Diseñadas:** Una visión completa de las clases implementadas en el proyecto, su propósito, y cómo contribuyen a la funcionalidad general del simulador.
+- **Diagrama de Clases:** Para facilitar la comprensión de la estructura del proyecto y la relación entre sus componentes, se incluye un diagrama de clases. Este esquema visual es una herramienta invaluable para visualizar la interacción entre las diferentes clases.
+
+Este documento es una guía indispensable no solo para entender mejor el proyecto, sino también como un recurso educativo sobre programación concurrente y diseño de software orientado a objetos.
+Recomendamos la lectura de la [memoria](/MEMORIA.pdf) para obtener una visión completa del diseño y las decisiones técnicas detrás de este simulador de restaurante.
+
+
+
+
 ## Video Tutorial de Uso
 
 Para facilitar la comprensión y el manejo del programa, hemos preparado un video tutorial que muestra el sencillo uso de los botones **Parar** y **Reanudar**. Puedes acceder al video tutorial a través del siguiente enlace: [Video Tutorial de Uso](/ejemplo-como-usar.mp4)
